@@ -2,6 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:171717,100:991b1b&height=210&text=RODRIGO%20ESTRADA&fontSize=42&fontColor=ffffff&fontAlignY=43&desc=DESARROLLO%20WEB%20%7C%20INGENIERIA%20DE%20SISTEMAS&descSize=15&descAlignY=65" width="100%" alt="Rodrigo Estrada — Desarrollo web e Ingeniería de Sistemas" />
 </p>
 
+<p align="center">
+  <a href="https://rodrigo-leon.netlify.app">
+    <img src="https://img.shields.io/badge/VER%20PORTAFOLIO-991b1b?style=for-the-badge&logo=netlify&logoColor=white" alt="Visitar mi portafolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/larri-rodrigo-estrada-leon-ab0a55258">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="Visitar mi LinkedIn" />
+  </a>
+</p>
+
 <h3 align="center">Interfaces claras. Soluciones para problemas reales.</h3>
 
 <p align="center">
